@@ -5,3 +5,11 @@ public class SomeProgram {
 		System.out.println("Yet, we are the experts");
     }
 }
+
+public void manageTheSatellite() {
+    // TODO implement
+}
+
+public void manageRockets() {
+    // TODO implement
+}
